@@ -7,4 +7,4 @@ I’m currently working on numerical solution of systems of differential equatio
 
 📫 How to reach me: 
  > work email: i.stepanov@herzen.edu.ru
- > all-purpous email: turvattomuusmestari@mail.ru
+ > all-purpose email: turvattomuusmestari@mail.ru
